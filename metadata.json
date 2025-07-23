@@ -1,0 +1,5 @@
+{
+  "name": "logix.whisperx",
+  "description": "An interactive web app to practice and learn fundamental computer science concepts like logic gates, number systems, and more, with AI-powered explanations about AMCC and other topics.",
+  "requestFramePermissions": []
+}
