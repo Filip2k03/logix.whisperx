@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Stephan Filip</string>
+    <string name="title_activity_main">Stephan Filip</string>
+    <string name="package_name">com.logixwhisperx.app</string>
+    <string name="custom_url_scheme">com.logixwhisperx.app</string>
+</resources>
